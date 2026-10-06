@@ -4,7 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Baranwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-baranwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Baranwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+prateek-baranwal-30b48b2b8
+)
 [![GitHub](https://img.shields.io/badge/GitHub-Prateekdeve-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateekdeve)
 
 </div>
